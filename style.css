@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    height: 200px;
+}
+
+.quimica {
+    border: 5px dotted blue;
+}
+
+
+nav li{
+    display: inline;
+    margin: 20px;
+    font-size: 1em;
+}
+
+nav a {
+    color: black;
+}
+
+nav a:hover {
+    color: red;
+}
