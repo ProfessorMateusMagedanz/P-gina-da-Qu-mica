@@ -2,14 +2,27 @@ body {
     background-color: wheat;
 }
 
+header{
+    background-color: aqua;
+}
+
 img {
+    margin-left: 480px;
     height: 200px;
+}
+
+h1{
+    text-align: center;
+    color: red;
 }
 
 .quimica {
     border: 5px dotted blue;
 }
 
+ul{
+    text-align: center;
+}
 
 nav li{
     display: inline;
@@ -23,4 +36,12 @@ nav a {
 
 nav a:hover {
     color: red;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
